@@ -1,5 +1,5 @@
 # advance-appscript-code-
-const WEBHOOK_URL = "https://services.callyzer.co/api/noauth-service/noAuth/listener/lead/GoogleSheet/a961408e-e18d-42e5-9044-6639bbde9a06";
+const WEBHOOK_URL = "";
 
 
 
